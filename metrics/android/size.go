@@ -1,8 +1,8 @@
-package decompose_metrics
+package size
 
 import "fmt"
 
-func Hello(name string) string {
+func HelloFromModMetrics(name string) string {
     message := fmt.Sprintf("Hi, %v. Welcome!", name)
     return message
 }
