@@ -1,3 +1,3 @@
-module com.mercadolibre/performance/decompose
+module github.com/oranyele/performance_metrics
 
 go 1.17
